@@ -1,4 +1,4 @@
-# vue-v2-1
+# vuejs-2
 
 ## Project setup
 ```
