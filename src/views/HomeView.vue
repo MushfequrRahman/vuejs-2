@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <NavComponent></NavComponent>
+    <div class="container"><NavComponent></NavComponent></div>
+
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
