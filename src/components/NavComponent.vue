@@ -22,6 +22,9 @@
             <li class="nav-item">
               <router-link class="nav-link" to="/test">Test</router-link>
             </li>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/test-1">Test-1</router-link>
+            </li>
             <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
